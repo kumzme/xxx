@@ -1,0 +1,15 @@
+local:
+    browser: chrome
+    webdriver.chrome.driver:    'C:/Driver_Qa/chromedriver.exe'
+    db_username:                app_ruby
+    db_password:                rubypassword
+    db_url:                     'jdbc:postgresql://maheshdbdev.cypwvkg7qp3n.us-east-1.rds.amazonaws.com:5432/maheshdb_qa'
+    fixture_file:               fixtures_duns_qa.csv
+    base_url_development:       'https://qacert.qa.mahesh-one.net/'
+
+
+    ## For Google Chrome
+    browser=chrome
+    webdriver.chrome.driver=/usr/local/bin/chromedriver
+
+

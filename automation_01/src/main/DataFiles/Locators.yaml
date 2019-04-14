@@ -1,0 +1,2 @@
+Navigation_Bar_Link_1:         {Locator: 'xpath', Value: "//nav[@role='navigation' and contains(@class, 'navigation')]"}
+Navigation_Bar_Link_2:         {Locator: 'xpath', Value: "//div[ contains(@class, 'usa-navbar') ]/div/ul/li [ a [ span[ contains(text(), 'rograms') ] "}
